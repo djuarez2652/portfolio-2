@@ -62,7 +62,7 @@ export default function App() {
                         in <span className={'font-code text-xl'}>Computer Science</span> with a minor in
                         Entrepreneurship and Innovation. <br/><br/>
                         I’m passionate about tackling real-world problems that meaningfully impact others’ lives.
-                        I’m proficient in C/C++, Java, Python, Swift, and React. I’ve worked with git and GitHub, and
+                        I’m proficient in <span className={'text-C/C++'}>C</span>/<span className={'text-C/C++'}>C++</span>, <span className={'text-Java'}>Java</span>, <span className={'text-Python'}>Python</span>, <span className={'text-Swift'}>Swift</span>, and <span className={'text-React'}>React</span>. I’ve worked with git and GitHub, and
                         Google’s Firebase Database.
                     </p>
                 </div>

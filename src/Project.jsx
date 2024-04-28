@@ -10,16 +10,16 @@ export default function Project ( props ) {
 
 		switch ( props.lang ) {
 			case 'C':
-				bubbleWindow.classList.add( 'bg-[#FCEB9C]' )
+				bubbleWindow.classList.add( 'bg-C/C++' )
 				break;
 			case 'Java':
-				bubbleWindow.classList.add( 'bg-[#FDC7CE]' )
+				bubbleWindow.classList.add( 'bg-Java' )
 				break;
 			case 'Swift':
-				bubbleWindow.classList.add( 'bg-[#F37A36]' )
+				bubbleWindow.classList.add( 'bg-Swift' )
 				break;
 			case 'Node JS':
-				bubbleWindow.classList.add( 'bg-[#8FC71B]' )
+				bubbleWindow.classList.add( 'bg-NodeJS' )
 				break;
 		}
 	}, []);

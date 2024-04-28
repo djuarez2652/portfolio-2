@@ -16,9 +16,14 @@ export default {
         'light-purple': '#b389ff',
         'light-blue': '#4157ff',
         'light-pink': '#ffaaf8',
+        'C/C++': '#7EB8FF',
+        'Java': '#F3910F',
+        'Python': '#F4D149',
+        'Swift': '#F3592D',
+        'React': '#5ED3F4',
+        'NodeJS': '#8FC71B'
       },
       fontFamily: {
-        // 'inter': ['Inter', 'sans-serif'],
         'montserrat': ['Montserrat', 'sans-serif'],
         'code': ['VT323', 'monospace']
       },
